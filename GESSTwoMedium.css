@@ -1,0 +1,12 @@
+ @font-face {
+    font-family: 'GESSTwoMedium';
+        src: url("https://raw.githubusercontent.com/umair-khalil/GESSTwoMedium/main/GESSTwoMedium-Medium.eot");
+    src: url("https://raw.githubusercontent.com/umair-khalil/GESSTwoMedium/main/GESSTwoMedium-Medium.eot?#iefix")format("embedded-opentype"),
+        url("https://raw.githubusercontent.com/umair-khalil/GESSTwoMedium/main/GESSTwoMedium-Medium.woff")format("woff"),
+        url("https://raw.githubusercontent.com/umair-khalil/GESSTwoMedium/main/GESSTwoMedium-Medium.woff2")format("woff2"),
+        url("https://raw.githubusercontent.com/umair-khalil/GESSTwoMedium/main/GESSTwoMedium-Medium.ttf")format("truetype"),
+        url("https://raw.githubusercontent.com/umair-khalil/GESSTwoMedium/main/GESSTwoMedium-Medium.svg#GESSTwoMedium")format("svg");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
